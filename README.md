@@ -14,3 +14,5 @@ Feel free to use these for brainstorming stuff, or big/small ideas you think of.
 Once there are some ideas for projects and lesson plans, we can break things apart
 into the pieces necessary for someone to actually teach the content to a group
 and help them work on the project.
+
+License: MIT
